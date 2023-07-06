@@ -11,3 +11,7 @@ public class ClinicaApplication {
 	}
 
 }
+
+// bugs
+// dificil de usar
+// codigo dififil de: {de entender, de extender, de mudar}

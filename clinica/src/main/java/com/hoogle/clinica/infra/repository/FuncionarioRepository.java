@@ -8,3 +8,5 @@ import org.springframework.stereotype.Repository;
 public interface FuncionarioRepository
         extends JpaRepository<Funcionario, Long> {
 }
+
+// https:localhost:8080/users/:id/?full=true
